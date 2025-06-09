@@ -9,8 +9,17 @@
     <itunes:summary>BUS6141</itunes:summary>
     <itunes:category text="Education"/>
     <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1dHgegyToTecW1bWJHhMQEDulGALAugm9" />
-    <lastBuildDate>Mon, 09 Jun 2025 01:17:29 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 01:27:52 </lastBuildDate>
 
+    <item>
+      <title>Levine Principles of analytic communication</title>
+      <description>Episode generated from uploaded content</description>
+      <pubDate>2025-06-09T06:27:46.999Z</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14B_K-rcCw3Q7Du0iydVcXBiL2VqlenaR" length="19685804" type="audio/mpeg"/>
+      <guid isPermaLink="false">1749450461_d5842b98</guid>
+      <itunes:duration>16:24</itunes:duration>
+    </item>
+    
     <item>
       <title>BUS6141_Lecture_M3</title>
       <description>Episode generated from uploaded content</description>
