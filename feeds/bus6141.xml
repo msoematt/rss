@@ -9,8 +9,17 @@
     <itunes:summary>BUS6141</itunes:summary>
     <itunes:category text="Education"/>
     <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1dHgegyToTecW1bWJHhMQEDulGALAugm9" />
-    <lastBuildDate>Mon, 09 Jun 2025 01:27:52 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 01:34:19 </lastBuildDate>
 
+    <item>
+      <title>Davenport Telling a story with data</title>
+      <description>Episode generated from uploaded content</description>
+      <pubDate>2025-06-09T06:34:16.254Z</pubDate>
+      <enclosure url="/api/files/1749450853_39063f4f/download" length="36653324" type="audio/mpeg"/>
+      <guid isPermaLink="false">1749450853_39063f4f</guid>
+      <itunes:duration>30:32</itunes:duration>
+    </item>
+    
     <item>
       <title>Levine Principles of analytic communication</title>
       <description>Episode generated from uploaded content</description>
