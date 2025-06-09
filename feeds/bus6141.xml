@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>BUS6141</title>
+    <link>https://drive.google.com/uc?export=download&id=1WPk0ENMYP4rP6uDLvY5E9ZFH9vlphgxE</link>
+    <description>BUS6141</description>
+    <language>en-us</language>
+    <itunes:author>MSOE</itunes:author>
+    <itunes:summary>BUS6141</itunes:summary>
+    <itunes:category text="Education"/>
+    <itunes:image href="https://drive.google.com/uc?export=download&id=1VYgH_qL7vfWrA_GGhu4ylOrorZtFz4v5" />
+    <lastBuildDate>Mon, 09 Jun 2025 00:24:05 </lastBuildDate>
+
+    <item>
+      <title>Brown Effective Communication</title>
+      <description>Episode generated from uploaded content</description>
+      <pubDate>2025-06-09T05:24:02.907Z</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1rWCeZ2vX5SDV3bxoOhFBNxh7x9oJ1gor" length="10684364" type="audio/mpeg"/>
+      <guid isPermaLink="false">1749446638_25e5a6d4</guid>
+      <itunes:duration>8:54</itunes:duration>
+    </item>
+    
+  </channel>
+</rss>
