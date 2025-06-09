@@ -2,20 +2,29 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>BUS6141</title>
-    <link>https://drive.google.com/uc?export=download&amp;id=1WPk0ENMYP4rP6uDLvY5E9ZFH9vlphgxE</link>
+    <link>https://raw.githubusercontent.com/msoematt/rss/main/feeds/bus6141.xml</link>
     <description>BUS6141</description>
     <language>en-us</language>
     <itunes:author>MSOE</itunes:author>
     <itunes:summary>BUS6141</itunes:summary>
     <itunes:category text="Education"/>
-    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1VYgH_qL7vfWrA_GGhu4ylOrorZtFz4v5" />
-    <lastBuildDate>Mon, 09 Jun 2025 00:24:05 </lastBuildDate>
+    <itunes:image href="https://drive.google.com/uc?export=view&id=1dHgegyToTecW1bWJHhMQEDulGALAugm9" />
+    <lastBuildDate>Mon, 09 Jun 2025 01:17:29 </lastBuildDate>
 
+    <item>
+      <title>BUS6141_Lecture_M3</title>
+      <description>Episode generated from uploaded content</description>
+      <pubDate>2025-06-09T06:17:25.354Z</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1frgcHbufPge37_VysJy2E560cQhFfZb6" length="59560357" type="audio/mpeg"/>
+      <guid isPermaLink="false">1749449834_f4100f2b</guid>
+      <itunes:duration>24:48</itunes:duration>
+    </item>
+    
     <item>
       <title>Brown Effective Communication</title>
       <description>Episode generated from uploaded content</description>
       <pubDate>2025-06-09T05:24:02.907Z</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rWCeZ2vX5SDV3bxoOhFBNxh7x9oJ1gor" length="10684364" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1rWCeZ2vX5SDV3bxoOhFBNxh7x9oJ1gor" length="10684364" type="audio/mpeg"/>
       <guid isPermaLink="false">1749446638_25e5a6d4</guid>
       <itunes:duration>8:54</itunes:duration>
     </item>
