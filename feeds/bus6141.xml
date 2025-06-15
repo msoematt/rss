@@ -9,35 +9,34 @@
     <itunes:summary>BUS6141</itunes:summary>
     <itunes:category text="Education"/>
     <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1dHgegyToTecW1bWJHhMQEDulGALAugm9" />
-    <lastBuildDate>Sun, 15 Jun 2025 18:20:16 </lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 18:54:23 </lastBuildDate>
 
     <item>
-      <title>M4Lecture.Full - Part 1</title>
-      <description>Module 4 Lecture (Part 1 of 3)</description>
-      <pubDate>2025-06-15T23:38:47.000Z</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1u80oPfNA4yhMuDLXoNsJ7-Rrv6p2yjbZ" length="69582848" type="audio/mpeg"/>
-      <guid isPermaLink="false">1750030727_380b6feb</guid>
-      <itunes:duration>29:00</itunes:duration>
+      <title>M4Lecture.Full - Part 3</title>
+      <description>Module 4 Lecture (Part 3 of 3)</description>
+      <pubDate>Sun, 15 Jun 2025 23:39:10 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QR8bVVpyEPnNWJFoR72Es58C00OvEcwI" length="69502976" type="audio/mpeg"/>
+      <guid isPermaLink="false">1750030750_e572fb32</guid>
+      <itunes:duration>28:58</itunes:duration>
     </item>
     
     <item>
       <title>M4Lecture.Full - Part 2</title>
       <description>Module 4 Lecture (Part 2 of 3)</description>
-      <pubDate>2025-06-15T23:38:57.000Z</pubDate>
+      <pubDate>Sun, 15 Jun 2025 23:38:57 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XC8UmsjmAif3nO_qksjq7cZLUiv8QAf2" length="69581312" type="audio/mpeg"/>
       <guid isPermaLink="false">1750030737_850bb0cd</guid>
       <itunes:duration>29:00</itunes:duration>
     </item>
     
     <item>
-      <title>M4Lecture.Full - Part 3</title>
-      <description>Module 4 Lecture (Part 3 of 3)</description>
-      <pubDate>2025-06-15T23:39:10.000Z</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QR8bVVpyEPnNWJFoR72Es58C00OvEcwI" length="69502976" type="audio/mpeg"/>
-      <guid isPermaLink="false">1750030750_e572fb32</guid>
-      <itunes:duration>28:58</itunes:duration>
+      <title>M4Lecture.Full - Part 1</title>
+      <description>Module 4 Lecture (Part 1 of 3)</description>
+      <pubDate>Sun, 15 Jun 2025 23:38:47 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1u80oPfNA4yhMuDLXoNsJ7-Rrv6p2yjbZ" length="69582848" type="audio/mpeg"/>
+      <guid isPermaLink="false">1750030727_380b6feb</guid>
+      <itunes:duration>29:00</itunes:duration>
     </item>
-    
     
   </channel>
 </rss>
