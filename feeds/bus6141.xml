@@ -9,8 +9,17 @@
     <itunes:summary>BUS6141</itunes:summary>
     <itunes:category text="Education"/>
     <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1dHgegyToTecW1bWJHhMQEDulGALAugm9" />
-    <lastBuildDate>Sun, 15 Jun 2025 18:10:04 </lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 18:20:16 </lastBuildDate>
 
+    <item>
+      <title>M4Lecture.Full</title>
+      <description>Episode generated from uploaded content</description>
+      <pubDate>2025-06-15T23:20:06.040Z</pubDate>
+      <enclosure url="/api/files/1750029596_f25dab4c/download" length="208721280" type="audio/mpeg"/>
+      <guid isPermaLink="false">1750029596_f25dab4c</guid>
+      <itunes:duration>1:26:57</itunes:duration>
+    </item>
+    
     <item>
       <title>M4Lecture.Full</title>
       <description>Episode generated from uploaded content</description>
@@ -18,6 +27,15 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ovG5BwLUgPBpjyiCUn2mOYN0L19elCHw" length="208721280" type="audio/mpeg"/>
       <guid isPermaLink="false">1750028955_7e36e72e</guid>
       <itunes:duration>1:26:57</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Davenport Telling a story with data</title>
+      <description>Episode generated from uploaded content</description>
+      <pubDate>2025-06-09T06:34:16.254Z</pubDate>
+      <enclosure url="/api/files/1749450853_39063f4f/download" length="36653324" type="audio/mpeg"/>
+      <guid isPermaLink="false">1749450853_39063f4f</guid>
+      <itunes:duration>30:32</itunes:duration>
     </item>
     
     <item>
