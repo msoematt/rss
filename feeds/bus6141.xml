@@ -9,7 +9,7 @@
     <itunes:summary>BUS6141</itunes:summary>
     <itunes:category text="Education"/>
     <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1dHgegyToTecW1bWJHhMQEDulGALAugm9" />
-    <lastBuildDate>Sun, 15 Jun 2025 18:54:23 </lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 23:49:28 </lastBuildDate>
 
     <item>
       <title>M4Lecture.Full - Part 3</title>
@@ -36,6 +36,24 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1u80oPfNA4yhMuDLXoNsJ7-Rrv6p2yjbZ" length="69582848" type="audio/mpeg"/>
       <guid isPermaLink="false">1750030727_380b6feb</guid>
       <itunes:duration>29:00</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Big Data- The Management Revolution _audio</title>
+      <description>Episode generated from uploaded content</description>
+      <pubDate>Mon, 16 Jun 2025 04:49:22 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QnQB78T0PkC55MUSEMpDVsuxmVr_qHjf" length="35662604" type="audio/mpeg"/>
+      <guid isPermaLink="false">1750049355_03300399</guid>
+      <itunes:duration>29:43</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Minding the Analytics Gap_audio</title>
+      <description>Episode generated from uploaded content</description>
+      <pubDate>Mon, 16 Jun 2025 04:49:08 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Fmpo7QP3bvhsSKglQ-cOdQ4xkGShLitB" length="29104364" type="audio/mpeg"/>
+      <guid isPermaLink="false">1750049342_1dc47dbe</guid>
+      <itunes:duration>24:15</itunes:duration>
     </item>
     
   </channel>
